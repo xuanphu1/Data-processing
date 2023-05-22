@@ -1,0 +1,3 @@
+Đây là bộ xử lí dữ liệu (format trong file Format Data.png) . 
+Dữ liệu được xử lí tìm max , min , mode , trung bình của từng ngày, từng tháng, từng năm theo 24 phần tử (giờ) cùng với các fearture như nhiệt độ , độ ẩm , ...
+Sau đó vẽ đồ thì để đưa ra cái nhìn trực quan hơn về dữ liệu mình vừa xử lí .
